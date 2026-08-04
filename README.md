@@ -1,3 +1,3 @@
 # test-1
-부트캠프 깃허브 연습1
-readme
+# Git Practice Project 
+Git과 GitHub 실습을 위한 프로젝트입니다.
